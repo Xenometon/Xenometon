@@ -5,11 +5,11 @@
 
 
 
-## :sassy_man:  About me
+## :sassy_man:  **About me-**
 - :technologist: I love exploring new things and trying to find a solution for every `Problem`.
 - :computer: I am a creative programmer mainly at `NLP and Automation in Python driven-AI assistants` and I use `Linux`.
-- :student: I’m currently working on: `AI Associate Development` and `Python projects`.
-- :nerd_face: Always `Learning new things, and up for facing challenges.`
+- :student: I’m currently working on: **AI Associate Development** and `Python projects`.
+- 🤖 Always `Learning new things, and up for facing challenges.`
 
 <br>
 
