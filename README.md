@@ -21,7 +21,7 @@
 
 ## 🛠️ My Skills -
 
-### ⮞ Coding Languages-
+### ⮞ Programming-
 
 <p align="center"> 
   &emsp;
