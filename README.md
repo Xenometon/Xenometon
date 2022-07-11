@@ -7,8 +7,8 @@
 
 ##  ⇒  **About me-**
 - :technologist: I love exploring **new things** and trying to find a **solution** for every _Problem._ 
-- :computer: I am a **Pro**grammer mainly at `NLP and Automation in Practical Python programming` and I use **Linux**. 
-- :student: I’m currently working on: **Python NLP and speech pakages** and many other *Python projects*. 
+- :computer: I am a **Pro**grammer mainly at `NLP and Automation in Practical programming` and I use **Linux**. 
+- :student: I’m currently working on: **Machine learning, NLP and speech pakages** and many other *Python projects*. 
 - 🤖 Always looking forward to  _Learning new things, and up for facing challenges_. 
 
 <br>
@@ -68,15 +68,16 @@
     <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-FFF300.svg?style=metallic&logo=pycharm&logoColor=white"></a>
 </p>
 
- ### ⮞ Operating Systems used-
+ ### ⮞ Operating Systems-
  
 <p align="center">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Zorin-0000FF?style=metallic&logo=zorin&logoColor=black"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=metallic&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch-1793D1.svg?logo=arch-linux&logoColor=white"></a>
   &emsp;
-        <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch-1793D1.svg?logo=arch-linux&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=metallic&logo=windows&logoColor=white"></a>
+  
 <br/>
 
 ----
