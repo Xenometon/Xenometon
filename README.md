@@ -75,6 +75,11 @@
     <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch-1793D1.svg?logo=arch-linux&logoColor=white"></a>
    <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-0000FF.svg?style=metallic&logo=fedora&logoColor=white"></a>
    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=metallic&logo=windows&logoColor=white"></a>
+</p>
+<br>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Xenometon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br/>
 
 ----
