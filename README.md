@@ -79,17 +79,24 @@
 <p align="center">
  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Xenometon&theme=dark&background=000000" alt="Xenometon" /></p>
  
+ ### <h2>⮞ Accomplishment-</h2>
+ 
+ <br>
+ 
+ <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Xenometon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xenometon&show_icons=true&theme=highcontrast" height="192px"/></a>
+ 
  ### <h2>⮞ Github Trophies-</h2>
  
  <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xenometon&theme=onestar" alt="Xenometon" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xenometon&theme=onestar&margin-w=10" alt="Xenometon" /></a> </p>
 
 ### <h2>⮞ **Contributions-**</h2>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Xenometon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
-----
+---------
 
 <!---
 Xenometon/Xenometon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
