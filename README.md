@@ -78,12 +78,22 @@
 </p>
 <br>
 
-------------------------
-<br>
+### <h2>⮞ Streak and Stats-</h2>
+
+<br> 
+
+<p align="center">
+ <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Xenometon&theme=dark&background=000000" alt="Xenometon" /></p>
+ 
+ ### <h2>⮞ Github Trophies-</h2>
+ 
+ <br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xenometon&theme=onestar" alt="Xenometon" /></a> </p>
+
+### <h2>⮞ **Contributions-**</h2>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Xenometon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br>
-<br>
  
 ----
 
