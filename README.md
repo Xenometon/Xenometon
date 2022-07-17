@@ -78,7 +78,7 @@
 <p align="center">
  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Xenometon&theme=dark&background=000000" alt="Xenometon" /></p>
  
- ### <h2>⮞ Accomplishment-</h2>
+ ### <h2>⮞ Accomplishments-</h2>
  
  <br>
  
