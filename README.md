@@ -9,7 +9,7 @@
 - :technologist: I love exploring **new things** and trying to find a **solution** for every _Problem._ 
 - :computer: I am a **Pro**grammer mainly at `NLP and Automation in Practical programming` and I use **Linux**. 
 - :student: I’m currently working on: **Machine learning, NLP and speech pakages** and many other *Python projects*. 
-- 🤖 Always looking forward to  _Learning new things, and up for facing challenges_. 
+- 🤖 Always looking forward to  **Learning new things**, and _up for facing challenges_. 
 
 <br>
 
