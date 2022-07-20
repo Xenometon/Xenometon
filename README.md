@@ -9,7 +9,7 @@
  
  -----------------
  
-## <p align="center">//____________________ You have come to the profile of ＜Xenometon＞ ! ____________________ //</p>
+## <p align="center">//________________ You have come to the profile of ＜Xenometon＞ ! ________________ //</p>
 
 ##  ⇒  **About me-**
 - :technologist: I love exploring **new things** and trying to find a **solution** for every _Problem._ 
