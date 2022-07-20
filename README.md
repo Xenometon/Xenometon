@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student;Creative+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-### <h2>**Contributions-**</h2>
+### <h2>**➾ Contributions-**</h2>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Xenometon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
@@ -27,7 +27,7 @@
 
 ## 🛠️ My Skills -
 
-### ⮞ Programming and Markup-
+### → Programming and Markup-
  <p align="left"> 
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=metallic&logo=python&logoColor=white">
   </a>
@@ -41,7 +41,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/Gif%20profile.gif">
 
- ### ⮞ **Softwares used-**
+ ### → **Softwares used-**
  
 <p align="left">
      <a href="#"><img alt="Vivaldi" src="https://img.shields.io/badge/Vivaldi-FF0000.svg?logo=vivaldi&logoColor=white"></a>
@@ -50,7 +50,7 @@
     <a href="#"><img alt="Geek For Geeks" src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=metallic&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
-### ⮞ Operating Systems-
+### → Operating Systems-
  
 <p align="left">
     <a href="#"><img src="https://img.shields.io/badge/Zorin-0000FF?style=metallic&logo=zorin&logoColor=black"></a>
@@ -58,14 +58,14 @@
    <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-0000FF.svg?style=metallic&logo=fedora&logoColor=white"></a>
 </p>
 
- ### ⮞ IDEs in use-
+ ### → IDEs in use-
  
 <p align="left">
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=metallic&logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-32CD32.svg?style=metallic&logo=pycharm&logoColor=white"></a>
 </p>
 
-### ⮞ Tools wielded-
+### → Tools wielded-
 
 <p align="left">
   <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
@@ -77,21 +77,21 @@
 
 <br>
 
-### <h2>⮞ Streak and Stats-</h2>
+### <h2>🔰 Streak and Stats-</h2>
 
 <br> 
 
 <p align="center">
  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Xenometon&theme=dark&background=000000" alt="Xenometon" /></p>
  
- ### <h2>⮞ Accomplishments-</h2>
+ ### <h2>➡️ Accomplishments-</h2>
  
  <br>
  
  <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Xenometon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xenometon&show_icons=true&theme=highcontrast" height="192px"/></a>
  
- ### <h2>⮞ Github Trophies-</h2>
+ ### <h2>🏆 Github Trophies-</h2>
  
  <br>
 
