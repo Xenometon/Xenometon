@@ -5,7 +5,7 @@
 
 ### <h2>**➾ Contributions-**</h2>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Xenometon&bg_color=000000&color=00FFFF&line=00FF00&point=FFFFFF&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Xenometon&bg_color=000000&color=0066ff&line=00FF00&point=FFFFFF&hide_border=false&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  -----------------
  
