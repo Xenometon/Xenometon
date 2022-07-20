@@ -1,9 +1,15 @@
-<h1 align="center">Hello there, Greetings from Xenometon!</h1>
+<h1 align="center">Hello there, Greetings from 𝕏enometon!</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student;Creative+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
+### <h2>⮞ **Contributions-**</h2>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Xenometon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ -----------------
+ 
+## <p align="center"> You have come to the profile of ＜𝖷𝖾𝗇𝗈𝗆𝖾𝗍𝗈𝗇＞ ! </p>
 
 ##  ⇒  **About me-**
 - :technologist: I love exploring **new things** and trying to find a **solution** for every _Problem._ 
@@ -91,9 +97,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xenometon&theme=onestar&margin-w=10" alt="Xenometon" /></a> </p>
 
-### <h2>⮞ **Contributions-**</h2>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Xenometon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ---------
 
