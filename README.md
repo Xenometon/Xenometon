@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, Greetings from 𝕏enometon!</h1>
+<h1 align="center">Hello there, Greetings from 𝗫enometon!</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student;Creative+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
