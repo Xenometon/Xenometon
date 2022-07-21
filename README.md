@@ -9,7 +9,7 @@
  
  -----------------
  
-## <p align="center">//  ⇓ ＜/ Profile /＞  ⇓  //</p>
+## <p align="center">//  ⇓  ＜/ Profile /＞  ⇓  //</p>
 
 ##  ⇒  **About me-**
 - :technologist: I love exploring **new things** and trying to find a **solution** for every _Problem._ 
