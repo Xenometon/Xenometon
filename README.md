@@ -3,18 +3,18 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student;Creative+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-### <h2>**➡️Contributions-**</h2>
+### <h2>**➡️ Contributions-**</h2>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Xenometon&theme=react-dark&bg_color=000000&radius=2)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  -----------------
  
-## <p align="center">//______________ 𝕐ou have now come to the profile of ＜Xenometon＞ ! ______________ //</p>
+## <p align="center">\\_____________ 𝕐ou have now come to the profile of ＜// Xenometon //＞ ! _____________/</p>
 
 ##  ⇒  **About me-**
 - :technologist: I love exploring **new things** and trying to find a **solution** for every _Problem._ 
-- :computer: I am a **Pro**grammer mainly at `NLP and Automation in Practical programming` and I am a **Linux** Elite. 
-- :student: I’m currently working on: **Machine learning, NLP and speech pakages** and many other *Python projects*. 
+- :computer: I am a **Pro**grammer mainly at `Practical Python programming` and I am a **Linux** Elite. 
+- :student: I’m currently working on: **Machine learning, NLP, speech pakages & Kotlin** and many other *Python projects*. 
 - 🤖 Always looking forward to  **Learning new things**, and _up for facing challenges_. 
 
 <br>
