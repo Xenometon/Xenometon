@@ -11,7 +11,7 @@
  
 ## <p align="center">//  ⇓  ＜/ Profile /＞  ⇓  //</p>
 
-##  ⇒  **About me-**
+##  =|  **About me-**
 - :technologist: I love exploring **new things** and trying to find a **solution** for every _Problem._ 
 - :computer: I am a **Pro**grammer mainly at `Practical Python programming` and I am a **Linux** Elite. 
 - :student: I’m currently working on: **Machine learning, NLP, speech pakages & Kotlin**, and many other *Python projects*. 
