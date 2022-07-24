@@ -12,7 +12,7 @@
 ## <p align="center">// ＜/ Profile and Statistics /＞ //</p>
 
 ##   ⇒ **About me-**
-- :technologist: I love exploring **new things** and trying to find a **solution** for every _Problem._ 
+- :technologist: Exploring **new things**, and trying to find a **solution** for every _Problem._ 
 - :computer: I am a **Pro**grammer mainly at `Practical Python programming` and a **Linux** Elite. 
 - :student: I’m currently working on: **Machine learning, NLP, Speech Modules, Kotlin Language**, and many other *Projects*. 
 - 🤖 Always looking forward to  **Learning new things**, and _up for facing challenges_. 
