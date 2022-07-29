@@ -1,7 +1,8 @@
-<h1 align="center">Hello there, Greetings from Xenometon!</h1>
+<h1 align="center">Greetings from Xenometon!</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Creative+Programmer;Student;Technophile;Software+Analyst&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains&color=04F71A&center=true&width=500&height=50&lines=This+is+Xenometon...;You+just+arrived+to+my+Github+profile.;Initiating+Zen+mode..."></a>
 </p>
+
 
 ### <h2>**➡️ Contributions-**</h2>
 
@@ -14,20 +15,18 @@
 ##   ⇒ **About me-**
 - :technologist: Exploring **new things**, and trying to find a **solution** for every _Problem._ 
 - :computer: I am a **Pro**grammer mainly at `Practical Python programming` and a **Linux** Elite. 
-- :student: I’m currently working on: **Machine learning, NLP, Speech Modules, Kotlin Language**, and many other *Projects*. 
+- :student: I’m currently working on: **Speech Modules, Kotlin Language**, and many other *Projects*. 
 - 🤖 Always looking forward to  **Learning new things**, and _up for facing challenges_. 
+<p align="left">
+Or stated simply,-
+</p>
+<p align ="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains&duration=4000&color=00B8F7&width=350&height=30&lines=Student;Technophile;Software+Analyst;Computer+Science+Enthusiast" alt="Typing SVG" /></a>
+</p>
 
-<br>
+## 🛠️ Expertise and Skills-
 
-
-<br>
-
-
-
-
-## 🛠️ My Skills -
-
-### → Programming and Markup-
+### → Programming & Markup-
  <p align="left"> 
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=metallic&logo=python&logoColor=white">
   </a>
