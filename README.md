@@ -1,6 +1,6 @@
-<h1 align="center">Greetings from Xenometon!</h1>
+<h1 align="center">Hello there, Welcome!</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains&color=04F71A&center=true&width=500&height=50&lines=This+is+Xenometon...;You+just+arrived+to+my+Github+profile.;Initiating+Zen+mode..."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains&color=04F71A&center=true&width=500&height=50&lines=This+is+Xenometon...;You+just+arrived+at+my+Github+profile.;Initiating+Zen+mode..."></a>
 </p>
 
 
