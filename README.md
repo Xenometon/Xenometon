@@ -2,20 +2,15 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains&color=04F71A&center=true&width=500&height=50&lines=This+is+Xenometon...;You+just+arrived+at+my+Github+profile.;Initiating+Zen+mode..."></a>
 </p>
- 
- -----------------
- <p align ="left"> 
- 
-  <img align="centre" alt="Coding" width="200" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/AI.gif">
-  
- 
- </p> 
+
+<p align="centre"> <img align="centre" alt="Coding" width="225" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/AI_hud.gif">  </p>
+
  
 ## <p align="center">// ＜/ Profile /＞ //</p>
 
 ##   ⇒ **About me-**
 
-<img align="right" alt="Coding" width="220" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/Pngfiles%20(1).png">
+<img align="right" alt="Coding" width="220" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/about-me%20(1)%20(1).png">
 
 - :technologist: Exploring **new things**, and trying to find a **solution** for every _Problem._ 
 - :computer: I am a **Pro**grammer mainly at `Practical Python programming` and a **Linux** Elite. 
@@ -99,7 +94,7 @@ Or stated simply,-
  <br>
  <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xenometon&theme=onestar&margin-w=15" alt="Xenometon" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xenometon&theme=onestar&margin-w=10" alt="Xenometon" /></a> </p>
 <br>
 
 ### <h2>**➡️ Contribution Statistics-**</h2>
