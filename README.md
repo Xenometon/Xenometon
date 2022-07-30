@@ -2,15 +2,16 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains&color=04F71A&center=true&width=500&height=50&lines=This+is+Xenometon...;You+just+arrived+at+my+Github+profile.;Initiating+Zen+mode..."></a>
 </p>
-
-
-### <h2>**➡️ Contributions-**</h2>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Xenometon&theme=react-dark&bg_color=000000&radius=2)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  -----------------
+ <p align ="left"> 
  
-## <p align="center">// ＜/ Profile and Statistics /＞ //</p>
+  <img align="centre" alt="Coding" width="200" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/AI.gif">
+  
+ 
+ </p> 
+ 
+## <p align="center">// ＜/ Profile /＞ //</p>
 
 ##   ⇒ **About me-**
 
@@ -91,14 +92,19 @@ Or stated simply,-
  <br>
  
  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Xenometon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xenometon&show_icons=true&theme=highcontrast" height="192px"/></a>
- 
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Xenometon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xenometon&show_icons=true&theme=highcontrast" height="192px"/></a></p>
+
  ### <h2>🏆 Github Trophies-</h2>
  
  <br>
+ <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xenometon&theme=onestar&margin-w=10" alt="Xenometon" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xenometon&theme=onestar&margin-w=15" alt="Xenometon" /></a> </p>
+<br>
 
+### <h2>**➡️ Contribution Statistics-**</h2>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Xenometon&theme=react-dark&bg_color=000000&radius=2)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ---------
 
