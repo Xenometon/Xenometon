@@ -6,8 +6,9 @@
 
 <p align="centre">
 
-  <img align="centre" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Config-Files/dbd28cc2c124b88e827a837fb5035252a2297aac/pngegg%20(9).png"> 
-  <img align="centre" alt="Coding" width="370" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/pngegg%20(14).png"> 
+  <img align="centre" alt="Coding" width="350" src="https://raw.githubusercontent.com/Xenometon/Config-Files/b4fa858e8e88bef5b21e21001305c81c9706d295/pngegg%20(17).png"> 
+ <img align="centre" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Config-Files/dbd28cc2c124b88e827a837fb5035252a2297aac/pngegg%20(9).png"> 
+ 
 
 </p>
 
