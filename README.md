@@ -12,12 +12,6 @@
 
 </p>
 
-<p align="right"> 
-
-`A.I:- Machine Learning, Natural Language Processing, Deep learning, Neural Network, Computer Vision & Data Science.`
-
-</p>
-
  ----------------
 ## <p align="center">// ＜/ Profile /＞ //</p>
 
