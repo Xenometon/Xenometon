@@ -14,7 +14,7 @@
 
 <p align="right"> 
 
-`AI, Machine Learning, Natural Language Processing.`
+`A.I:- Machine Learning, Natural Language Processing, Deep learning, Neural Network, Computer Vision & Data Science.`
 
 </p>
 
