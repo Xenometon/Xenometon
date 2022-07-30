@@ -2,8 +2,22 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains&color=04F71A&center=true&width=500&height=50&lines=This+is+Xenometon...;You+just+arrived+at+my+Github+profile.;Initiating+Zen+mode..."></a>
 </p>
+<br>
 
- 
+<p align="centre">
+
+  <img align="centre" alt="Coding" width="450" src="https://raw.githubusercontent.com/Xenometon/Config-Files/dbd28cc2c124b88e827a837fb5035252a2297aac/pngegg%20(9).png"> 
+  <img align="centre" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/pngegg%20(10).png"> 
+
+</p>
+
+<p align="right"> 
+
+`AI, Machine Learning, Natural Language Processing.`
+
+</p>
+
+ ----------------
 ## <p align="center">// ＜/ Profile /＞ //</p>
 
 ##   ⇒ **About me-**
@@ -23,7 +37,7 @@ Or stated simply,-
 
 ## 🛠️ Expertise and Skills-
 
-### - Programming & Markup-
+#### - Programming & Markup:-
  <p align="left"> 
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=metallic&logo=python&logoColor=white">
   </a>
@@ -37,7 +51,7 @@ Or stated simply,-
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/Gif%20profile.gif">
 
- ### - **Softwares used-**
+ #### - Softwares used:-
  
 <p align="left">
      <a href="#"><img alt="Vivaldi" src="https://img.shields.io/badge/Vivaldi-FF0000.svg?logo=vivaldi&logoColor=white"></a>
@@ -46,7 +60,7 @@ Or stated simply,-
     <a href="#"><img alt="Geek For Geeks" src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=metallic&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
-### - Operating Systems-
+#### - Operating Systems:-
  
 <p align="left">
     <a href="#"><img src="https://img.shields.io/badge/Zorin-0000FF?style=metallic&logo=zorin&logoColor=black"></a>
@@ -54,14 +68,14 @@ Or stated simply,-
    <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-0000FF.svg?style=metallic&logo=fedora&logoColor=white"></a>
 </p>
 
- ### - IDEs in use-
+ #### - IDEs in use:-
  
 <p align="left">
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=metallic&logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-32CD32.svg?style=metallic&logo=pycharm&logoColor=white"></a>
 </p>
 
-### - Tools wielded-
+#### - Tools wielded:-
 
 <p align="left">
   <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
