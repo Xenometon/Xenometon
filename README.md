@@ -19,7 +19,7 @@
 
 <img align="right" alt="Coding" width="225" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/about-me%20(1)%20(1).png">
 
-- :technologist: Exploring **new things**, and trying to find a **solution** for every _Problem._ 
+- :technologist: Exploring **new things**, and trying to find a **solution** for every _problem._ 
 - :computer: I am a **Pro**grammer mainly at `Practical Python programming` and a **Linux** Elite. 
 - :student: I’m currently working on: **Speech Modules, Kotlin Language**, and **Open-CV** Projects. 
 - 🤖 Always looking forward to  **Learning new things**, and _up for facing challenges_. 
