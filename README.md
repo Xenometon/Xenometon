@@ -7,7 +7,7 @@
 <p align="centre">
    
    <img align="centre" alt="Coding" width="350" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/pngegg%20(22).png"> 
-<img align="centre" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/AI_hud.gif"> 
+<img align="centre" alt="Coding" width="450" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/technorez.gif"> 
 
 
 
