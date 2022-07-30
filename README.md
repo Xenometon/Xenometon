@@ -6,14 +6,13 @@
 
 <p align="centre">
    
-   <img align="centre" alt="Coding" width="350" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/pngegg%20(22).png"> 
-<img align="centre" alt="Coding" width="450" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/axon.gif"> 
-
-
+   <img align="centre" alt="Coding" width="350" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/Circuitboard-1.png"> 
+<img align="centre" alt="Coding" width="450" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/Engine-1.png"> 
 
 </p>
 
  ----------------
+ 
 ## <p align="center">// ＜/ Profile /＞ //</p>
 
 ##   ⇒ **About me-**
@@ -22,7 +21,7 @@
 
 - :technologist: Exploring **new things**, and trying to find a **solution** for every _Problem._ 
 - :computer: I am a **Pro**grammer mainly at `Practical Python programming` and a **Linux** Elite. 
-- :student: I’m currently working on: **Speech Modules, Kotlin Language**, and many other *Projects*. 
+- :student: I’m currently working on: **Speech Modules, Kotlin Language**, and **Open-CV** Projects. 
 - 🤖 Always looking forward to  **Learning new things**, and _up for facing challenges_. 
 <p align="left">
 Or stated simply,-
