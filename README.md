@@ -7,7 +7,7 @@
 <p align="centre">
    
 <img align="centre" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Engine-2.png"> 
-<img align="centre" alt="Coding" width="375" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/Engine-1.png"> 
+<img align="centre" alt="Coding" width="380" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/Engine-1.png"> 
 
 </p>
 
@@ -17,7 +17,7 @@
 
 ##   ⇒ **About me-**
 
-<img align="right" alt="Coding" width="225" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/about-me%20(1)%20(1).png">
+<img align="right" alt="Coding" width="225" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/About-me.png">
 
 - :technologist: Exploring **new things**, and trying to find a **solution** for every _problem._ 
 - :computer: I am a **Pro**grammer mainly at `Practical Python programming` and a **Linux** Elite. 
