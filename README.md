@@ -24,7 +24,7 @@
 - :student: I’m currently working on: **Speech Modules, Kotlin Language**, and **Open-CV** Projects. 
 - 🤖 Always looking forward to  **Learning new things**, and _up for facing challenges_. 
 <p align="left">
-Or stated simply,a-
+Stated simply;-
 </p>
 <p align ="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains&duration=4000&color=00B8F7&width=350&height=30&lines=Student;Technophile;Software+Analyst;Computer+Science+Enthusiast" alt="Typing SVG" /></a>
