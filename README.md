@@ -104,10 +104,6 @@ Stated simply;-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xenometon&theme=onestar&margin-w=10" alt="Xenometon" /></a> </p>
 <br>
 
-### <h2>**➡️ Contribution Statistics-**</h2>
-<br>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Xenometon&theme=react-dark&bg_color=000000&radius=2)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ---------
 
