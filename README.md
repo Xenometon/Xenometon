@@ -7,8 +7,8 @@
 <p align="centre">
  
 <img align="centre" alt="Coding" width="265" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/java.png">
-<img align="centre" alt="Coding" width="280" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/C.png">
-<img align="centre" alt="Coding" width="280" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/Python.png">
+<img align="centre" alt="Coding" width="285" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/C.png">
+<img align="centre" alt="Coding" width="285" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/Python.png">
  
 
 </p>
