@@ -6,7 +6,7 @@
 
 <p align="centre">
  
-<img align="centre" alt="Coding" width="235" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/Kotlin_1.png">
+<img align="centre" alt="Coding" width="155" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/Kotlin_1.png">
 <img align="centre" alt="Coding" width="250" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/C.png">
 <img align="centre" alt="Coding" width="250" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/Python.png">
  
