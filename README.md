@@ -6,8 +6,8 @@
 
 <p align="centre">
  
-<img align="centre" alt="Coding" width="425" src="https://github.com/Xenometon/Config-Files/blob/main/pngegg.png"> 
-<img align="centre" alt="Coding" width="430" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Engine-2.png"> 
+<img align="centre" alt="Coding" width="400" src="https://github.com/Xenometon/Config-Files/blob/main/pngegg.png"> 
+<img align="centre" alt="Coding" width="415" src="https://raw.githubusercontent.com/Xenometon/Ultron-AI/main/Engine-2.png"> 
 
 </p>
 
