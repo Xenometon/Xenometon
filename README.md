@@ -1,12 +1,12 @@
 <h1 align="center">Hey there, Welcome!</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains&color=04F71A&center=true&width=500&height=50&lines=This+is+Xenometon...;You+just+arrived+at+my+Github+profile.;Abode+of+some+Advanced+Coding+Projects.;Check+out+Repositories+for+more+ideas!;Initiating+Zen+mode..."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains&color=04F71A&center=true&width=500&height=50&lines=This+is+Xenometon...;You+just+arrived+at+my+Github+profile.;Abode+of+some+Advanced+Coding+Projects.;Check+out+Repositories+for+more+ideas!;Initializing+operation+sequence..."></a>
 </p>
 <br>
 
 <p align="centre">
  
-<img align="centre" alt="Coding" width="275" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/java.png">
+<img align="centre" alt="Coding" width="265" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/java.png">
 <img align="centre" alt="Coding" width="275" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/C.png">
 <img align="centre" alt="Coding" width="275" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/Python.png">
  
@@ -15,7 +15,7 @@
 
  ----------------
  
-## <p align="center">// ＜/ Profile /＞ //</p>
+## <p align="center">＜/ My Profile /＞ </p>
 
 ##   ⇒ **About me-**
 
@@ -26,7 +26,7 @@
 - :student: I’m currently working on: **Speech Modules, Kotlin Language**, and **Open-CV** Projects. 
 - 🤖 Always looking forward to  **Learning new things**, and _up for facing challenges_. 
 <p align="left">
-Stated simply;-
+Simply stated:-
 </p>
 <p align ="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains&duration=4000&color=00B8F7&width=350&height=30&lines=Student;Technophile;Software+Analyst;Computer+Science+Enthusiast" alt="Typing SVG" /></a>
@@ -70,6 +70,7 @@ Stated simply;-
 <p align="left">
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=metallic&logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-32CD32.svg?style=metallic&logo=pycharm&logoColor=white"></a>
+    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime_Text-FFC800.svg?style=metallic&logo=sublimetext&logoColor=white"></a>
 </p>
 
 #### - Tools wielded:-
@@ -84,7 +85,7 @@ Stated simply;-
 
 <br>
 
-### <h2>🔰 Streak and Stats-</h2>
+### <h2>💎 Streak and Statistics-</h2>
 
 <br> 
 
