@@ -6,7 +6,7 @@
 
 <p align="centre">
  
-<img align="centre" alt="Coding" width="1000" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/pngegg%20(1).png"> 
+<img align="centre" alt="Coding" width="850" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/pngegg%20(1).png"> 
 
 </p>
 
