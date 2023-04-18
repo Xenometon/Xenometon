@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, Welcome!</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains&color=2EFF2E&center=true&width=500&height=50&lines=This+is+Xenometon...;You+just+arrived+at+my+Github+profile.;Abode+of+some+Advanced+Coding+Projects.;Check+out+Repositories+for+more+ideas!;Initializing+operation+sequence..."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains&color=2EFF2E&center=true&width=500&height=50&lines=This+is+Xenometon...;You+just+arrived+at+my+Github+profile.;Abode+of+some+Advanced+Coding+Projects.;Check+out+Repositories+for+more+ideas!;Initializing+Operation+sequence..."></a>
 </p>
 <br>
 
@@ -92,12 +92,6 @@ Simply stated:-
 <p align="center">
  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Xenometon&theme=dark&background=000000" alt="Xenometon" /></p>
  
- ### <h2>🏅 Accomplishments-</h2>
- 
- <br>
- 
- <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Xenometon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Xenometon&show_icons=true&theme=highcontrast" height="192px"/></a></p>
 
  ### <h2>🏆 Github Trophies-</h2>
  
