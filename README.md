@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, Welcome!</h1>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3500&pause=1250&color=00FF45&center=true&width=500&lines=This+is+Xenometon.;You+just+arrived+at+my+Github+profile;Abode+of+some+advanced+coding+projects.;Check+out+repositories+for+more+ideas!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3500&pause=1250&color=00FF45&center=true&width=500&height=35&lines=This+is+Xenometon.;You+just+arrived+at+my+Github+profile;Abode+of+some+advanced+coding+projects.;Check+out+repositories+for+more+ideas!" alt="Typing SVG" /></a>
 </p>
 <br>
 
