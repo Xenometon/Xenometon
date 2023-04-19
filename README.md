@@ -26,10 +26,10 @@
 - :student: I’m currently working on: **Speech Modules, Kotlin Language**, and **Open-CV** Projects. 
 - 🤖 Always looking forward to  **Learning new things**, and _up for facing challenges_. 
 <p align="left">
-Simply stated:-
+Simply, A-
 </p>
 <p align ="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains&duration=4000&color=00B8F7&width=350&height=30&lines=Student;Technophile;Software+Analyst;Computer+Science+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains&duration=4500&color=00FFFF&width=350&height=30&lines=Student...;Technophile...;Software+Analyst...;Computer+Science+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 ## 🛠️ Expertise and Skills-
