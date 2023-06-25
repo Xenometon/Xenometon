@@ -93,15 +93,9 @@ Simply,
  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Xenometon&theme=dark&background=000000" alt="Xenometon" /></p>
  
 
- ### <h2>🏆 Github Trophies-</h2>
- 
- <br>
- <br>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Xenometon&theme=onestar&margin-w=10" alt="Xenometon" /></a> </p>
+<br>
 <br>
 
- 
 ---------
 
 <!---
