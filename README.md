@@ -1,14 +1,16 @@
-<h1 align="center">Hey there, Welcome!</h1>
+<h1 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Smooch&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&repeat=false&random=false&width=500&height=100&lines=Hey+there%2C+Welcome..." alt="Typing SVG" /></a>
+</h1>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3500&pause=1500&color=00FF45&center=true&vCenter=true&width=500&height=25&lines=This+is+Xenometon.;You+just+arrived+at+my+Github+profile;Abode+of+some+advanced+coding+projects.;Check+out+repositories+for+more+ideas!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=28&duration=6000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&random=false&width=450&height=55&lines=This+is+Xenometon.;You+just+arrived+at+my+Github+profile;Abode+of+some+advanced+projects...;Check+out+repositories+for+more+ideas!" alt="Typing SVG" /></a>
 </p>
 <br>
 
 <p align="centre">
  
-<img align="centre" alt="Coding" width="265" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/java.png">
-<img align="centre" alt="Coding" width="275" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/C.png">
-<img align="centre" alt="Coding" width="275" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/Python.png">
+<img align="centre" alt="Coding" width="245" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/java.png">
+<img align="centre" alt="Coding" width="255" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/C.png">
+<img align="centre" alt="Coding" width="255" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/Python.png">
  
 
 </p>
