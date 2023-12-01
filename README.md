@@ -47,9 +47,9 @@
 #### - Operating Systems:-
  
 <p align="left">
-    <a href="#"><img src="https://img.shields.io/badge/Zorin-0000FF?style=metallic&logo=zorin&logoColor=black"></a>
+    <a href="#"><img alt="Mac" src="https://img.shields.io/badge/Mac-FFFFFF.svg?style=metallic&logo=Apple&logoColor=black"></a>
     <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-   <a href="#"><img alt="Mac" src="https://img.shields.io/badge/Mac-FFFFFF.svg?style=metallic&logo=Apple&logoColor=black"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Zorin-0000FF?style=metallic&logo=zorin&logoColor=black"></a>
 </p>
 
  #### - IDEs in use:-
