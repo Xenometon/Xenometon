@@ -4,10 +4,9 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=325&duration=3500&pause=1250&color=00FF00&center=true&vCenter=true&random=false&width=500&height=75&lines=This+is+Xenometon;You+just+arrived+at+my+Github+profile;Abode+of+some+advanced+coding+projects...;Check+out+repositories+for+more+ideas!" alt="Typing SVG" /></a>
 </p>
- 
-## <p align="center">＜/ My Profile /＞ </p>
 
-##   ⇒ **About me-**
+
+##   **＜/ My Profile /＞**
 
 <img align="right" alt="Coding" width="225" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/About-me.png">
 
