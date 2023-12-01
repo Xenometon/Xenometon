@@ -1,8 +1,8 @@
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Smooch&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&repeat=false&random=false&width=500&height=100&lines=Hey+there%2C+Welcome..." alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Smooch&size=50&duration=2000&pause=1000&color=FFFFFF&center=true&repeat=false&random=false&width=500&height=100&lines=Hey+there%2C+Welcome" alt="Typing SVG" /></a>
 </h1>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=28&duration=6000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&random=false&width=450&height=55&lines=This+is+Xenometon.;You+just+arrived+at+my+Github+profile;Abode+of+some+advanced+projects...;Check+out+repositories+for+more+ideas!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=28&duration=6000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=true&random=false&width=450&height=55&lines=This+is+Xenometon.;You+just+arrived+at+my+Github+profile;Abode+of+some+advanced+projects...;Check+out+repositories+for+more+ideas!" alt="Typing SVG" /></a>
 </p>
 <br>
 
