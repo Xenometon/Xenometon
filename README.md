@@ -12,8 +12,8 @@
 
 - :technologist: Exploring **new things**, and trying to find a **solution** for every _problem._ 
 - :computer: I am a **Pro**grammer mainly at `Practical Python programming` and a **Linux** Elite. 
-- :student: I’m currently working on: **Speech Modules, Kotlin Language**, and **Open-CV** Projects. 
-- 🤖 Always looking forward to  **Learning new things**, and _up for facing challenges_. 
+- 🧑🏻‍🎓 I’m currently working on: **Speech Modules, Kotlin Language**, and **Open-CV** Projects. 
+- 🦾 Always looking forward to  **Learning new things**, and _up for facing challenges_. 
 <p align="left">
 ⇒ Simply,
 </p>
