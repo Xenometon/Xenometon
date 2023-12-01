@@ -6,7 +6,7 @@
 </p>
 
 
-##  ⇒ **My Profile-**
+##  // **My Profile-**
 
 <img align="right" alt="Coding" width="225" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/About-me.png">
 
@@ -15,7 +15,7 @@
 - :student: I’m currently working on: **Speech Modules, Kotlin Language**, and **Open-CV** Projects. 
 - 🤖 Always looking forward to  **Learning new things**, and _up for facing challenges_. 
 <p align="left">
-Simply,
+⇒ Simply,
 </p>
 <p align ="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=325&size=25&duration=3500&pause=1250&color=00FFFF&vCenter=true&random=false&width=500&height=65&lines=A+student...;Technophile;Software+Analyst;Computer+Science+Enthusiast." alt="Typing SVG" /></a>
