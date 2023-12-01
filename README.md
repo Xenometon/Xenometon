@@ -6,7 +6,7 @@
 </p>
 
 
-##   **＜/ My Profile /＞**
+##  // **My Profile-**
 
 <img align="right" alt="Coding" width="225" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/About-me.png">
 
