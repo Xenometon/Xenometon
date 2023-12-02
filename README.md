@@ -10,10 +10,10 @@
 
 <img align="right" alt="Coding" width="225" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/About-me.png">
 
-- :technologist: Exploring **new things**, and trying to find a **solution** for every _problem._ 
+- :technologist: Exploring **new things**, and trying to find a **solution** for every problem. 
 - :computer: I am a **Pro**grammer and a **Linux** Elite. 
 - 🧑🏻‍🎓 I’m currently working on: **Speech Modules** and **Open-CV** Projects. 
-- 🦾 Always looking forward to  **Learning new things**, and _up for facing challenges_. 
+- 🦾 Always looking forward to  **Learning new things**, and **up for facing challenges.** 
 <p align="left">
 ⇒ Simply,
 </p>
@@ -33,7 +33,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/Gif%20profile.gif">
+<img align="right" alt="Coding" width="375" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/Gif%20profile.gif">
 
  #### - Softwares used:-
  
@@ -41,7 +41,6 @@
      <a href="#"><img alt="Vivaldi" src="https://img.shields.io/badge/Vivaldi-FF0000.svg?logo=vivaldi&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=metallic&logo=github&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=metallic&logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Geek For Geeks" src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=metallic&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
 #### - Operating Systems:-
@@ -67,7 +66,6 @@
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
   <a href="#"><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-00FFFF?logo=Gitlab&logoColor=white"></a>
-  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 </p>
 
 <br>
@@ -77,7 +75,7 @@
 <br> 
 
 <p align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xenometon&include_all_commits=true&rank_icon=github&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/></p> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xenometon&include_all_commits=true&rank_icon=github&count_private=true&show_icons=true&line_height=25&title_color=00FFFF&icon_color=2234AE&text_color=FFFFFF&bg_color=0,000000,120F45"/></p> 
 
 <br>
 
