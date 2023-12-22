@@ -15,7 +15,7 @@
 - 🧑🏻‍🎓 I’m currently working on: **Speech Modules** and **Open-CV** Projects. 
 - 🦾 Always looking forward to  **Learning new things**, and **up for facing challenges.** 
 <p align="left">
-⇒ Simply,
+⇒ Simply put, -
 </p>
 <p align ="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=325&size=25&duration=3500&pause=1250&color=00FFFF&vCenter=true&random=false&width=500&height=65&lines=A+student...;Technophile;Software+Analyst;Computer+Science+Enthusiast." alt="Typing SVG" /></a>
@@ -25,7 +25,7 @@
 
 #### - Programming & Markup:-
  <p align="left"> 
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=metallic&logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-0000F7.svg?style=metallic&logo=python&logoColor=white">
   </a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-FF00FF.svg?logo=Kotlin&logoColor=white"></a>
@@ -48,7 +48,7 @@
 <p align="left">
     <a href="#"><img alt="Mac" src="https://img.shields.io/badge/Mac-FFFFFF.svg?style=metallic&logo=Apple&logoColor=black"></a>
     <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch-000000.svg?logo=arch-linux&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Zorin-0000FF?style=metallic&logo=zorin&logoColor=black"></a>
+    <a href="#"><img alt="Zorin" src="https://img.shields.io/badge/Zorin-120F45?style=metallic&logo=zorin&logoColor=white"></a>
 </p>
 
  #### - IDEs in use:-
@@ -72,13 +72,14 @@
 ### <h2>💎 Streak and Statistics-</h2>
 
 <br> 
+<br>
 
 <p align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xenometon&include_all_commits=true&rank_icon=github&count_private=true&show_icons=true&line_height=25&title_color=00FFFF&icon_color=2234AE&text_color=FFFFFF&bg_color=0,000000,120F45"/></p> 
+ <img height="225em" src="https://github-readme-stats.vercel.app/api?username=Xenometon&include_all_commits=true&rank_icon=github&count_private=true&show_icons=true&line_height=24&title_color=00FFFF&icon_color=00FF00&text_color=FFFFFF&bg_color=0,000000,120F45"/></p> 
 
 <br>
 
----------
+----------
 
 <!---
 Xenometon/Xenometon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
