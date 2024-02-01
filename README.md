@@ -2,7 +2,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Smooch&size=50&duration=2000&pause=1000&color=FFFFFF&center=true&repeat=false&random=false&width=500&height=100&lines=Hey+there%2C+Welcome" alt="Typing SVG" /></a>
 </h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=325&duration=3500&pause=1250&color=00FF00&center=true&vCenter=true&random=false&width=500&height=75&lines=This+is+Xenometon;You+just+arrived+at+my+Github+profile;Abode+of+some+advanced+coding+projects...;Check+out+repositories+for+more+ideas!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=325&duration=3500&pause=1250&color=00FF00&center=true&vCenter=true&random=false&width=500&height=75&lines=This+is+Xenometon;You+just+arrived+at+my+Github+profile...;Abode+of+some+advanced+coding+projects.;Check+out+repositories+for+more+ideas!" alt="Typing SVG" /></a>
 </p>
 
 
@@ -18,7 +18,7 @@
 ⇒ Simply put, -
 </p>
 <p align ="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=325&size=25&duration=3500&pause=1250&color=00FFFF&vCenter=true&random=false&width=500&height=65&lines=A+student...;Technophile;Software+Analyst;Computer+Science+Enthusiast." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Display&weight=325&size=25&duration=3500&pause=1250&color=00FFFF&vCenter=true&random=false&width=500&height=60&lines=A+student...;Technophile;Software+Analyst;Computer+Science+Enthusiast." alt="Typing SVG" /></a>
 </p>
 
 ## 🛠️ Expertise and Skills-
