@@ -55,7 +55,6 @@
  
 <p align="left">
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=metallic&logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime_Text-FFC800.svg?style=metallic&logo=sublimetext&logoColor=white"></a>
  <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-32CD32.svg?style=metallic&logo=pycharm&logoColor=white"></a>
 </p>
 
