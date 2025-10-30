@@ -8,7 +8,7 @@
 
 ##  // **My Profile-**
 
-<img align="right" alt="Coding" width="245" src="https://raw.githubusercontent.com/Xenometon/Config-Files/main/About-me.png">
+<img align="right" alt="Coding" width="245" src="https://raw.githubusercontent.com/Xenometon/Config-Files/refs/heads/main/hud_1.png">
 
 - :technologist: Exploring **new things**, and trying to find a **solution** for every problem. 
 - :computer: I am a **Pro**grammer and a **Linux** Elite. 
