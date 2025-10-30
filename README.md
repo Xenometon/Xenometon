@@ -1,8 +1,8 @@
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Smooch&size=50&duration=2000&pause=1000&color=FFFFFF&center=true&repeat=false&random=false&width=500&height=100&lines=Hey+there%2C+Welcome" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Smooch&size=50&duration=2000&pause=1000&color=FFFFFF&center=true&repeat=false&random=false&width=500&height=100&lines=Hey+there%2C+Welcome!" alt="Typing SVG" /></a>
 </h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=325&duration=3500&pause=1250&color=00FF00&center=true&vCenter=true&random=false&width=500&height=75&lines=This+is+Xenometon;You+just+arrived+at+my+Github+profile...;Abode+of+some+advanced+coding+projects.;Check+out+repositories+for+more+ideas!" alt="Typing SVG" /></a>
+<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22hello%22%2C%22color%22%3A%22%23FFFFFF%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22hola%22%2C%22color%22%3A%22%23FF0000%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22bonjour%22%2C%22color%22%3A%22%230000FF%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22hallo%22%2C%22color%22%3A%22%23008000%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22ciao%22%2C%22color%22%3A%22%23FFFF00%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22ol%5Cu00e1%22%2C%22color%22%3A%22%23800080%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22%5Cu043f%5Cu0440%5Cu0438%5Cu0432%5Cu0435%5Cu0442%22%2C%22color%22%3A%22%23FFA500%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22%5Cu4f60%5Cu597d%22%2C%22color%22%3A%22%23FFC0CB%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22%5Cu3053%5Cu3093%5Cu306b%5Cu3061%5Cu306f%22%2C%22color%22%3A%22%2300FFFF%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22%5Cuc548%5Cub155%5Cud558%5Cuc138%5Cuc694%22%2C%22color%22%3A%22%23FF00FF%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22%5Cu0928%5Cu092e%5Cu0938%5Cu094d%5Cu0924%5Cu0947%22%2C%22color%22%3A%22%2300FF00%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22%5Cu0645%5Cu0631%5Cu062d%5Cu0628%5Cu0627%22%2C%22color%22%3A%22%23008080%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22hej%22%2C%22color%22%3A%22%23FFD700%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22merhaba%22%2C%22color%22%3A%22%234B0082%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%2C%7B%22text%22%3A%22cze%5Cu015b%5Cu0107%22%2C%22color%22%3A%22%23C0C0C0%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.1%7D%5D&font=Roboto+Mono&fontWeight=400&pause=1250&center=true&vCenter=true&repeat=true&width=500&height=75&backgroundOpacity=0&border=false&cursorStyle=straight&deletionBehavior=backspace" alt="Typing SVG" /></a>
 </p>
 
 
@@ -18,7 +18,7 @@
 ⇒ Simply put, -
 </p>
 <p align ="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Display&weight=325&size=25&duration=3500&pause=1250&color=00FFFF&vCenter=true&random=false&width=500&height=60&lines=A+student...;Technophile;Software+Analyst;Computer+Science+Enthusiast." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono+Display&weight=325&size=25&duration=3500&pause=1250&color=00FFFF&vCenter=true&random=false&width=500&height=60&lines=A+student...;Technophile;Software+Analyst;Computer+Science+Enthusiast!" alt="Typing SVG" /></a>
 </p>
 
 ## 🛠️ Expertise and Skills-
