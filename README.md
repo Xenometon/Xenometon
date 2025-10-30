@@ -15,10 +15,11 @@
 - 🧑🏻‍🎓 I’m currently working on: **Speech Modules** and **Open-CV** Projects. 
 - 🦾 Always looking forward to  **Learning new things**, and **up for facing challenges.** 
 <p align="left">
-⇒ Simply put, -
+⇒ Currently, I am an undergrad studying -
 </p>
 <p align ="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono+Display&weight=325&size=25&duration=3500&pause=1250&color=00FFFF&vCenter=true&random=false&width=500&height=60&lines=A+student...;Technophile;Software+Analyst;Computer+Science+Enthusiast!" alt="Typing SVG" /></a>
+<b>🎓 ECET at NJIT!</b>
+ 
 </p>
 
 ## 🛠️ Expertise and Skills-
